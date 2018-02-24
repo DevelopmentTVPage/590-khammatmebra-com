@@ -1,0 +1,15 @@
+{
+    "title": "Boom",
+    "baseURL": "https:\/\/khammatmebra.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759135",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "khammatmebra.com"
+    }
+}
